@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brightmorkli37
 - 👀 I’m interested in Software Engineering and Data Science
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Vue.JS
 - 💞️ I’m looking to collaborate on Natural Language Processing projects geared towards building intelligent chatbots
 - 📫 How to reach me: brightmorkli37@gmail.com Telegram: @brightmorkli
 
