@@ -23,7 +23,8 @@ How to reach me: brightmorkli37@gmail.com 📫
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brightmorkli37&theme=synthwave)
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brightmorkli37&theme=vue-dark)](https://git.io/streak-stats)
  
- [![trophy](https://github-profile-trophy.vercel.app/?username=brightmorkli37)](https://github.com/ryo-ma/github-profile-trophy)
+<!--  [![trophy](https://github-profile-trophy.vercel.app/?username=brightmorkli37)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <h3 align="left">Some good quotes to know</h3>
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
