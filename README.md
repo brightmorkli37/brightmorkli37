@@ -9,8 +9,8 @@ brightmorkli37/brightmorkli37 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brightmorkli37)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brightmorkli37&theme=vue-dark)](https://git.io/streak-stats)
 
