@@ -9,7 +9,8 @@ brightmorkli37/brightmorkli37 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brightmorkli37)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brightmorkli37&theme=vue-dark)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brightmorkli37&theme=vue-dark)](https://git.io/streak-stats)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
