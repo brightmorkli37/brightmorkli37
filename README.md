@@ -21,7 +21,7 @@ Mail: brightmorkli37@gmail.com 📫
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brightmorkli37&theme=vue-dark)](https://git.io/streak-stats)
 
  
- [![trophy](https://github-profile-trophy.vercel.app/?username=brightmorkli37)](https://github.com/ryo-ma/github-profile-trophy)
+<!--  [![trophy](https://github-profile-trophy.vercel.app/?username=brightmorkli37)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <h3>Some good quotes to know</h3>
 
