@@ -18,9 +18,10 @@ Mail: brightmorkli37@gmail.com 📫
 
 <p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brightmorkli37&theme=synthwave)
-
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brightmorkli37&theme=vue-dark)](https://git.io/streak-stats)
  </p>
+ 
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brightmorkli37&theme=vue-dark)](https://git.io/streak-stats)
+
  
 <!--  [![trophy](https://github-profile-trophy.vercel.app/?username=brightmorkli37)](https://github.com/ryo-ma/github-profile-trophy) -->
 
